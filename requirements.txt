@@ -1,7 +1,6 @@
 pip==23.3.2
 disutils
 openai==0.28
-pyaudio
 pyttsx3
 requests
 SpeechRecognition==3.10.0
